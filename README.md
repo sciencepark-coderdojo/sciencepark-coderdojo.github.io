@@ -9,7 +9,7 @@ the website.
 The key parts of the site are:
 - `_config.yml`: main configuration for the site
 - `_pages/`: holding infrequently-changing pages (like the About page)
-- `_posts/`: holding an periodically updated set of event reports and articles
+- `_posts/`: holding periodically updating events and articles
 
 ## Resources
 
@@ -33,7 +33,7 @@ As a collaborator, you gain access to the content and tools in this repository. 
 The simplest way to make quick edits on any content is to use GitHub's web interface to create new files
 or by selecting an existing file and clicking the Edit button. 
 
-Note: any changes you make to the 'master' branch of the repository will show up immediately. To get see
+Note: any changes you make to the 'master' branch of the repository will show up immediately. To see
 a preview of your changes as a webpage you have the following options:
 
 - Clone a copy of the repo to your local PC and [test with a local preview](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
