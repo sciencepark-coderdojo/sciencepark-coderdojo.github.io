@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "CoderDojo Events"
 permalink: /events/
 layout: posts 
 
