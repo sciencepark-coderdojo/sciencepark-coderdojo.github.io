@@ -4,6 +4,23 @@ This is the GitHub Pages repo for the [Science Park CoderDojo website](https://s
 The files stored in this repo are automatically converted into a set of HTML pages that make up 
 the website.
 
+## Organization
+
+The key parts of the site are:
+- `_config.yml`: main configuration for the site
+- `_pages/`: holding infrequently-changing pages (like the About page)
+- `_posts/`: holding an periodically updated set of event reports and articles
+
+## Resources
+
+The metadata and naming conventions in this repo follow those required by the jekyll site generator.
+Refer to the jekyll documentation to learn how to create new [posts](https://jekyllrb.com/docs/posts/)
+and [pages](https://jekyllrb.com/docs/pages/).
+
+The site currently uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) 
+jekyll theme. The theme offers a number of configuration and layout options, which are described in the 
+[theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+
 ## Get added as a collaborator
 
 If you are a Science Park CoderDojo champion or mentor, you can become a collaborator.
