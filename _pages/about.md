@@ -31,7 +31,7 @@ The CoderDojo Foundation was established in 2013 by CoderDojo co-founder James W
 
 In 2017, the CoderDojo Foundation joined forces with the Raspberry Pi Foundation to further accelerate our mission and vision globally.
 
-Learn more at: https://coderdojo.com/foundation/
+Learn more at: [Coder Dojo Foundation Website](https://coderdojo.com/foundation/)
 
 ## Volunteers
 
