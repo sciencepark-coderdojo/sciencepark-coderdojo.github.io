@@ -25,11 +25,11 @@ We don't actually. It is all 100% volunteer based. The Bradfield Centre are spon
 
 # About The Organizers
 
-
-
 [Jamie](https://github.com/JamieDavidson) is currently a professional Software Engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
 
 
+
+Other organizer sections to come
 
 ## Coder Dojo Foundation
 
