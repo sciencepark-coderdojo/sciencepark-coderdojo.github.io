@@ -35,7 +35,12 @@ Learn more at: [Coder Dojo Foundation Website](https://coderdojo.com/foundation/
 
 ## Volunteers
 
-**Norbert Naskov, Nicholas Chen and Jamie Davidson** are the main Organizers of this Dojo. They run each event, prepare the exercises and the games.
+**Norbert Naskov, Nicholas Chen and Jamie Davidson** are the primary organizers of this Dojo. 
+They run each event, prepare the exercises and the games.
+
+Nicholas is is an engineer at Microsoft in Cambridge. While at Microsoft, he played a very
+small part in the hardware design of the Micro:bit. He also supervises undergraduates in Electronics
+and Graphics at Corpus Christi College, Cambridge.
 
 [Jamie](https://github.com/JamieDavidson) is currently a professional software engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
 
