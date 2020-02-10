@@ -25,12 +25,6 @@ We don't actually. It is all 100% volunteer based. The Bradfield Centre are spon
 
 # About The Organizers
 
-[Jamie](https://github.com/JamieDavidson) is currently a professional software engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
-
-
-
-Other organizer sections to come
-
 ## Coder Dojo Foundation
 
 The CoderDojo Foundation was established in 2013 by CoderDojo co-founder James Whelton. Due to CoderDojo’s rapid growth, we need a structured entity to support us and help us scale, which is where the Foundation comes in. CoderDojo and the Foundation share the same vision: every child worldwide should have the opportunity to learn code and to be creative with technology in a safe & social environment.
@@ -42,6 +36,8 @@ Learn more at: [Coder Dojo Foundation Website](https://coderdojo.com/foundation/
 ## Volunteers
 
 **Norbert Naskov, Nicholas Chen and Jamie Davidson** are the main Organizers of this Dojo. They run each event, prepare the exercises and the games.
+
+[Jamie](https://github.com/JamieDavidson) is currently a professional software engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
 
 ## Sponsors
 
