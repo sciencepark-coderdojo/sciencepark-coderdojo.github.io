@@ -21,7 +21,7 @@ You will need to bring a laptop. A tablet will also work, but a laptop is better
 
 ### How do you make money?
 
-We don't actually. It is all 100% volunteer based. The Bradfield Center are sponosoring the venue and the Mentors/Organizers are doing it because they want to inspire young children to pursure careers in STEM.
+We don't actually. It is all 100% volunteer based. The Bradfield Centre are sponsoring the venue and the Mentors/Organizers are doing it because they want to inspire young children to pursue careers in STEM.
 
 # About The Organizers
 
@@ -37,6 +37,8 @@ Learn more at: [Coder Dojo Foundation Website](https://coderdojo.com/foundation/
 
 **Norbert Naskov, Nicholas Chen and Jamie Davidson** are the main Organizers of this Dojo. They run each event, prepare the exercises and the games.
 
+[Jamie](https://github.com/JamieDavidson) is currently a professional software engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
+
 ## Sponsors
 
-We are very lucky to have been sponosred by the Bradfield Center and the Science Park to run our Dojos. For more information, talk to Lucy or Mark are the events.
+We are very lucky to have been sponsored by the Bradfield Centre and the Science Park to run our Dojos. For more information, talk to Lucy or Mark are the events.
