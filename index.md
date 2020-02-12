@@ -14,13 +14,15 @@ Have fun and learn to code.
 
 {% include image-gallery.html folder="/assets/photos" %}
 
-### Upcoming CoderDojo Events at The Bradfield Center
+### CoderDojo Events at The Bradfield Center
 
-We should add links to register for the dates below
+You can view and register for our upcoming events on our [Eventbrite page](https://www.eventbrite.com/o/coderdojo-the-bradfield-center-and-central-working-27608623949). Registering is quick, easy and free. You'll need to provide your name and email address to Eventbrite to register for our events.
 
-- 15 February 2020
-- 21 March 2020
-- 18 April 2020
+Our upcoming events in the near future:
+
+- [15 February 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-february-2020-tickets-91569838853)
+- [21 March 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-march-2020-tickets-91570262119)
+- [18 April 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-april-2020-tickets-91570280173)
 
 ### Getting to The Bradfield Center
 
