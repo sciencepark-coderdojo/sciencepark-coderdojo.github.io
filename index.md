@@ -3,6 +3,25 @@ title: "CoderDojo at the Cambridge Science Park"
 layout: single
 header:
   overlay_color: "#333"
+gallery:
+  - url: /assets/images/gallery/photo001.jpg
+    image_path: /assets/images/gallery/thumbs/photo001-th.jpg
+  - url: /assets/images/gallery/photo002.jpg
+    image_path: /assets/images/gallery/thumbs/photo002-th.jpg
+  - url: /assets/images/gallery/photo003.jpg
+    image_path: /assets/images/gallery/thumbs/photo003-th.jpg
+  - url: /assets/images/gallery/photo004.jpg
+    image_path: /assets/images/gallery/thumbs/photo004-th.jpg
+  - url: /assets/images/gallery/photo005.jpg
+    image_path: /assets/images/gallery/thumbs/photo005-th.jpg
+  - url: /assets/images/gallery/photo006.jpg
+    image_path: /assets/images/gallery/thumbs/photo006-th.jpg
+  - url: /assets/images/gallery/photo007.jpg
+    image_path: /assets/images/gallery/thumbs/photo007-th.jpg
+  - url: /assets/images/gallery/photo008.jpg
+    image_path: /assets/images/gallery/thumbs/photo008-th.jpg
+  - url: /assets/images/gallery/photo009.jpg
+    image_path: /assets/images/gallery/thumbs/photo009-th.jpg
 ---
 
 ### Have Fun and Learn to Code!
@@ -19,7 +38,7 @@ tools and languages or get help implementing their own projects from our volunte
 
 ### Photos of Previous Events
 
-{% include image-gallery.html folder="/assets/photos" %}
+{% include gallery %}
 
 ### CoderDojo Events at The Bradfield Center
 

@@ -47,3 +47,19 @@ a preview of your changes as a webpage you have the following options:
 You can fork this site to your own GitHub account and make and preview edits there. Submit a pull request to
 get your changes re-incorporated into the official page.
 
+## Tips and Tricks
+
+### Image Galleries
+
+To create an image gallery, use the [gallery helper included with the theme](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery). In the YAML metadata in the front matter of the page/post that needs a photo gallery,
+add the images that you wish to include in the gallery. By default, only `image_path` is required, but the `url`
+property can be used to point to an enlarged version of the photo.
+
+As a convention, full-size photos should be put in the `/assets/images/gallery` directory and thumbnails in the `/assets/images/gallery/thumbs` directory.
+
+[ImageMagick](https://imagemagick.org/index.php) can be used to quickly create thumbnails. 
+To resize and crop to a square, the following command can be used:
+
+```
+convert filename.jpg -thumbnail '300x300^' -gravity center -extent 300x300 filename-th.jpg
+```
