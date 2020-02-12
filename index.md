@@ -5,10 +5,17 @@ header:
   overlay_color: "#333"
 ---
 
-### What is CoderDojo?
+### Have Fun and Learn to Code!
 
-Have fun and learn to code.
-![makecode-maze](/assets/images/poster.jpg)
+[![makecode-maze](/assets/images/poster.jpg)](https://zen.coderdojo.com/dojos/gb/cambridge/science-park-cambridge-the-bradfield-centre)
+
+CoderDojo is a programming club where young people can learn to code, be inspired by their peers, 
+and, most importantly, have fun! At each session attendees socialize, participate in coding activities, 
+and then share their work with each other.
+
+Everyone is welcome, regardless of coding experience. Our intro activities are suitable for
+attendees who are coding for the very first time. Seasoned coders can come to discover new
+tools and languages or get help implementing their own projects from our volunteers.
 
 ### Photos of Previous Events
 
