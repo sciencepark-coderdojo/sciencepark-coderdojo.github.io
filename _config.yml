@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CoderDojo @ Bradfield 
-email: your-email@example.com
+title: Cambridge Science Park CoderDojo
+email: info@camcoderdojo.com
 description: >- # this means to ignore newlines until "baseurl:"
     CoderDojo is a programming club where young people can learn to code, 
     be inspired by their peers, and, most importantly, have fun! The
@@ -63,9 +63,9 @@ include:
 #   - vendor/ruby/
 
 author:
-  name	: "CoderDojo@Bradfield"
+  name	: "Cambridge Science Park CoderDojo"
   avatar: "/assets/images/bio-photo.jpg"
-  bio	: "We meet Saturdays at the Cambridge Science Park."
+  bio	: "We meet Saturdays at the Bradfield Centre at the Cambridge Science Park."
 
 # We currently list events past and present as posts
 # we may want to consider splitting them up into their own
