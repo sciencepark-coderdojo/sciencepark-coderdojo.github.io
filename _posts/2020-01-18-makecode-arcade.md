@@ -1,13 +1,11 @@
 ---
-title:  "MakeCode Arcade"
+title:  "January CoderDojo: Introducing MakeCode Arcade"
 date:   2020-01-25 00:25:37 +0000
 categories: event
 ---
 
-[MakeCode Arcade](https://arcade.makecode.com/) is a block-based programming environment like 
-Scratch and Micro:bit, but specially designed to help you build different kinds of games. 
-With MakeCode Arcade, you build all parts of the game from scratch. You get to make the art, 
-pick enemies, and even decide how to keep score!
+This session we introduced [MakeCode Arcade](https://arcade.makecode.com/). MakeCode Arcade 
+is a block-based programming environment like Scratch and Micro:bit, but specially designed to help you build different kinds of games. MakeCode Arcade, you build all parts of the game from scratch. You get to make the art, pick enemies, and even decide how to keep score!
 
 ![makecode-maze](/assets/images/2020-01-18-makecode.gif)
 
