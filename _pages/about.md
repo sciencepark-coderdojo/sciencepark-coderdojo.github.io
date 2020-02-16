@@ -23,6 +23,11 @@ You will need to bring a laptop. A tablet will also work, but a laptop is better
 
 We don't actually. It is all 100% volunteer based. The Bradfield Centre are sponsoring the venue and the Mentors/Organizers are doing it because they want to inspire young children to pursue careers in STEM.
 
+### How do I get in touch?
+
+If you have any other questions about this CoderDojo, our events, or anything else, 
+please contact us at [info@camcoderdojo.com](mailto:info@camcoderdojo.com)
+
 # About The Organizers
 
 ## Coder Dojo Foundation
@@ -38,6 +43,9 @@ Learn more at: [Coder Dojo Foundation Website](https://coderdojo.com/foundation/
 **Norbert Naskov, Nicholas Chen and Jamie Davidson** are the main Organizers of this Dojo. They run each event, prepare the exercises and the games.
 
 [Jamie](https://github.com/JamieDavidson) is currently a professional software engineer from Cambridge. Before working as a software engineer, he was Master of Programming at HackLab UK where he created and ran workshops for programming and game design. When he's not at work, Jamie can be found working on one of his many hobby projects. From large scale applications to small side projects running on the Raspberry Pi, Jamie is constantly looking for new challenges and interesting topics to research. He's currently pursuing an interest in data analysis and pattern recognition, and is working to improve his skills at technical writing.
+
+Nicholas is an engineer at Microsoft in Cambridge. He played a very small part in the hardware design of the Micro:bit. He also teaches Electronics and Graphics to undergraduates at 
+Corpus Christi College, Cambridge.
 
 ## Sponsors
 
