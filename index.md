@@ -24,6 +24,16 @@ gallery:
     image_path: /assets/images/gallery/thumbs/photo009-th.jpg
 ---
 
+<div style="border: 2px solid red; padding: 1em;">
+
+<h3 style="margin-top: 0;">Important Notice</h3>
+
+We are prioritizing the health and well-being of our attendees and will be <strong>cancelling our 21 March session</strong>. 
+We will provide a virtual CoderDojo experience where we will introduce new activities and present 
+ways for CoderDojo Ninjas to share their work on our <a href="/event/virtualdojo">March CoderDojo Page</a>
+
+</div>
+
 ### Have Fun and Learn to Code!
 
 [![makecode-maze](/assets/images/poster.jpg)](https://zen.coderdojo.com/dojos/gb/cambridge/science-park-cambridge-the-bradfield-centre)
@@ -42,9 +52,11 @@ You can view and register for our upcoming events on our [Eventbrite page](https
 
 Our upcoming events in the near future:
 
-- [15 February 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-february-2020-tickets-91569838853)
-- [21 March 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-march-2020-tickets-91570262119)
+- <del>21 March 2020</del> **Event Cancelled** Activities to do at home will be on our [March CoderDojo Page](/event/virtualdojo).
 - [18 April 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-april-2020-tickets-91570280173)
+- [16 May 2020](https://www.eventbrite.com/e/98782261403)
+- [20 June 2020](https://www.eventbrite.com/e/98783354673)
+- [18 July 2020](https://www.eventbrite.com/e/98783469015)
 
 ### Getting to The Bradfield Center
 
