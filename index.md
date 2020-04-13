@@ -50,8 +50,7 @@ You can view and register for our upcoming events on our [Eventbrite page](https
 
 Our upcoming events in the near future:
 
-- <del>21 March 2020</del> **Event Cancelled** Activities to do at home will be on our [March CoderDojo Page](/event/virtualdojo).
-- [18 April 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-april-2020-tickets-91570280173)
+- <del>18 April 2020</del> **Event Cancelled**
 - [16 May 2020](https://www.eventbrite.com/e/98782261403)
 - [20 June 2020](https://www.eventbrite.com/e/98783354673)
 - [18 July 2020](https://www.eventbrite.com/e/98783469015)
