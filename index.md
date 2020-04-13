@@ -27,11 +27,9 @@ gallery:
 <div style="border: 2px solid red; padding: 1em;">
 
 <h3 style="margin-top: 0;">Important Notice</h3>
-
-We are prioritizing the health and well-being of our attendees and will be <strong>cancelling our 21 March session</strong>. 
-We will provide a virtual CoderDojo experience where we will introduce new activities and present 
-ways for CoderDojo Ninjas to share their work on our <a href="/event/virtualdojo">March CoderDojo Page</a>
-
+Given the the current social distancing guidance, we are cancelling our April CoderDojo session that was scheduled
+for 18 April. We will continue to monitor the status of COVID-19 and will resume our CoderDojo events as soon as it 
+is safe to do so.
 </div>
 
 ### Have Fun and Learn to Code!
@@ -52,8 +50,7 @@ You can view and register for our upcoming events on our [Eventbrite page](https
 
 Our upcoming events in the near future:
 
-- <del>21 March 2020</del> **Event Cancelled** Activities to do at home will be on our [March CoderDojo Page](/event/virtualdojo).
-- [18 April 2020](https://www.eventbrite.com/e/free-coderdojo-kids-7-17-learn-to-code-april-2020-tickets-91570280173)
+- <del>18 April 2020</del> **Event Cancelled**
 - [16 May 2020](https://www.eventbrite.com/e/98782261403)
 - [20 June 2020](https://www.eventbrite.com/e/98783354673)
 - [18 July 2020](https://www.eventbrite.com/e/98783469015)
