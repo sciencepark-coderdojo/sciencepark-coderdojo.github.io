@@ -27,11 +27,9 @@ gallery:
 <div style="border: 2px solid red; padding: 1em;">
 
 <h3 style="margin-top: 0;">Important Notice</h3>
-
-We are prioritizing the health and well-being of our attendees and will be <strong>cancelling our 21 March session</strong>. 
-We will provide a virtual CoderDojo experience where we will introduce new activities and present 
-ways for CoderDojo Ninjas to share their work on our <a href="/event/virtualdojo">March CoderDojo Page</a>
-
+Given the the current social distancing guidance, we are cancelling our April CoderDojo session that was scheduled
+for 18 April. We will continue to monitor the status of COVID-19 and will resume our CoderDojo events as soon as it 
+is safe to do so.
 </div>
 
 ### Have Fun and Learn to Code!
